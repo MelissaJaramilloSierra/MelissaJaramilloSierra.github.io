@@ -925,17 +925,6 @@ body {
   margin-bottom: 0;
 }
 
-.work--button {
-  background-color: #1769ff;
-  width: 140px;
-  display: block;
-  margin: 14px 0;
-  text-decoration: none;
-  text-align: center;
-  color: #fff;
-  font-weight: 700;
-}
-
 .work--lockup {
   position: relative;
 }
