@@ -1,18 +1,11 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+  =>  Template Name    : DevFolio - Developer Portfolio Template
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+  =>  Template Link    : https://htmlcodex.com/developer-portfolio-template
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+  =>  Template Author  : HTML Codex
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+  =>  Author Website   : https://htmlcodex.com
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/global)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
