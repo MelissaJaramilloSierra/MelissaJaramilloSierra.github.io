@@ -249,7 +249,10 @@ a:focus {
     padding: 120px 0 0 0;
     overflow: hidden;
     /* background: linear-gradient(rgba(239, 35, 60, .95), rgba(239, 35, 60, .95)), url(../img/hero-bg.jpg); */
-    background: linear-gradient(rgba(121, 11, 88, 0.219), rgba(95, 0, 13, 0.322)), url(../img/hero_background.jpg);
+    /* background: linear-gradient(rgba(239, 35, 59, 0.822), rgba(239, 35, 59, 0.65)), url(../img/hero_background.jpg); */
+    /* background: linear-gradient(rgba(121, 11, 88, 0.219), rgba(95, 0, 13, 0.322)), url(../img/hero_background.jpg); */
+    background: linear-gradient(rgba(121, 11, 88, 0.616), rgba(29, 1, 5, 0.486)), url(../img/hero_background.jpg);
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
